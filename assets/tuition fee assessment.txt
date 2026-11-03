@@ -1,0 +1,28 @@
+per unit: 459.54
+lab fee: 3,429.30
+hands-on fee: 2,341.86
+Miscellaneous fee breakdown:
+-Registration			621.00
+-Library			552.00
+-Athletic			445.74
+-ID Card			414.00
+-SBO				124.20
+-Publication			124.20
+-Insurance			 31.74
+-Health Services		231.38
+-Socio Cultural			165.60
+-Guidance & Counseling		124.20
+-Audio Visual			154.56
+-Faculty Development Fund	386.40
+-Infrastructure			154.56
+-Internet			110.40
+-Prisaa				100.00
+-TOTAL			       3739.98
+
+Breakdown:
+-Per unit rate * number of units of all subjects
+-laboratory fees and hands-on feesare added to the tuition fee depending
+on the subjects
+-Miscellaneous fee
+-Downpayment: 3,500
+-Exam Computation Percentage: 20% of balance after downpayment of 3,500
